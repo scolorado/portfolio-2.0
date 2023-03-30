@@ -10,14 +10,3 @@ h1{
 h2{
     font-family: 'Bebas Neue', cursive;
 }
-.bg-white {
-    background: green !important;
-    transition: 1.5s ease-in;
-  }
-  
-  .bg-white.scrolled {
-    background: red !important;
-  }
-  #tezt{
-    font-size: 500px;
-  }
