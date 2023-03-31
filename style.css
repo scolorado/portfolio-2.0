@@ -19,12 +19,9 @@ h2{
     z-index: 1;
     top: 0;
     overflow: hidden;
-    background-color: aqua;
 }
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
 }
 li a {
@@ -32,11 +29,16 @@ li a {
     color: black;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 200%;
   }
 li{
     float: left;
 }
-
+li a:hover {
+    background-color: #ffe7b8;
+    color: black;
+  }
 .newNav{
     background-color: #f69ca9 !important;
 }
