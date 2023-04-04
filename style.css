@@ -42,3 +42,6 @@ li a:hover {
 .newNav{
     background-color: #f69ca9 !important;
 }
+.oldNav{
+    background-color: none;
+}
