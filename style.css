@@ -46,3 +46,12 @@ li a:hover {
 .oldNav{
     background-color: none;
 }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+  }
