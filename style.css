@@ -12,7 +12,9 @@ h1{
 h2{
     font-family: 'Bebas Neue', cursive;
 }
-
+h4{
+    font-family: 'Bebas Neue', cursive;
+}
 
 .nav{
     position: fixed;
