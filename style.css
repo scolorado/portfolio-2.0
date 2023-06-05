@@ -15,6 +15,9 @@ h2{
 h4{
     font-family: 'Bebas Neue', cursive;
 }
+.card-text{
+    font-family: 'Old Standard TT', serif;
+}
 
 .nav{
     position: fixed;
