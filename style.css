@@ -60,7 +60,10 @@ li a:hover {
     font-family: 'Abril Fatface', cursive;
     font-size: 50px;
   }
-  .card-title:hover{
+  .web-link{
+    
+  }
+  .web-link:hover{
     color: #ed0479;
   }
-  a
+  
