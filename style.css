@@ -67,4 +67,6 @@ li a:hover {
   .web-link:hover{
     color: #ed0479;
   }
-  
+  .port{
+    font-size: 70px;
+  }
