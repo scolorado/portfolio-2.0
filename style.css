@@ -45,6 +45,9 @@ li a:hover {
     background-color: #ffe7b8;
     color: black;
   }
+li a:active{
+    color: #ed0479;
+}
 .newNav{
     background-color: #f69ca9 !important;
 }
@@ -72,6 +75,8 @@ li a:hover {
   }
   #footer{
     background-color: #ffe7b8;
+    text-align: center;
+    position: absolute;
   }
  .footer1{
     color: #ed0479;
