@@ -81,3 +81,10 @@ li a:active{
  .footer1{
     color: #ed0479;
   }
+  .contact-link{
+    text-decoration: none;
+    color: black;
+  }
+  .contact-link:hover{
+    color: #ed0479;
+  }
