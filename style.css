@@ -89,5 +89,7 @@ li a:active{
     color: #ed0479;
   }
   .me{
-    
+    border-style: solid;
+    border-width: medium;
+    color: #f69ca9;
   }
